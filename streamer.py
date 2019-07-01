@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# Copyright (c) 2018 Marco Zollinger <marco@freelabs.space>
+# Licensed under MIT, the license file shall be included in all copies
+
 import cv2
 import numpy as np
 import serial
